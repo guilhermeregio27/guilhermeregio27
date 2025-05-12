@@ -1,13 +1,13 @@
 # Olá, eu sou Guilherme Regio de Almeida 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, sou Docente na instituição Senai e também treinador do representante cearense para a WorldSkills na ocupação #08 - Desenvolvimento de Aplicativos.
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor júnior apaixonado por tecnologia e programação. Tenho formação técnica completa em **Análise e Desenvolvimento de Sistemas** e atualmente estou cursando o ensino superior na mesma área. Busco constantemente aprimorar minhas habilidades e colaborar com projetos inovadores.
 
 ## Sobre Mim
 
 - 🌱 Atualmente estou aprendendo **Dart** e **Flutter**.
 - 👯 Estou procurando colaborar em projetos open-source e na criação de projetos próprios.
 - 💬 Pergunte-me sobre **Dart**, **Flutter**, e **Python**.
-- 📫 Como me encontrar: [](mailto:guilherme.regio.almeida@gmail.com)
+- 📫 Como me encontrar: [](mailto:guilhermeregio37@gmail.com)
 
 ## Habilidades
 
