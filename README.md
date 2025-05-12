@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou Guilherme Regio de Almeida 👋
+
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, sou Docente na instituição Senai e também treinador do representante cearense para a WorldSkills na ocupação #08 - Desenvolvimento de Aplicativos.
+
+## Sobre Mim
+
+- 🌱 Atualmente estou aprendendo **Dart** e **Flutter**.
+- 👯 Estou procurando colaborar em projetos open-source e na criação de projetos próprios.
+- 💬 Pergunte-me sobre **Dart**, **Flutter**, e **Python**.
+- 📫 Como me encontrar: [](mailto:guilherme.regio.almeida@gmail.com)
+
+## Habilidades
+
+- **Linguagens de Programação:** javascript, C#
+- **Frameworks:** Bootstrap, tailwind
+- **Ferramentas:** Git
 
 <!--
-**guilhermeregio27/guilhermeregio27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projetos em Destaque
 
-Here are some ideas to get you started:
+### [Projeto 1](https://github.com/seu-usuario/projeto1)
+Descrição breve do projeto 1.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### [Projeto 2](https://github.com/seu-usuario/projeto2)
+Descrição breve do projeto 2.
 -->
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guilhermeregio27&show_icons=true&theme=radical)
+
+## Entre em Contato
+
+- [LinkedIn](https://www.linkedin.com/in/guilherme-regio-almeida/)
